@@ -1,7 +1,7 @@
 # DigWitch
 파는마녀, 2020년 9월 진행, 4일, WinAPI / C++ </br>
 
-##개요
+## 개요
 <img src="https://github.com/fool8474/DigWitch/blob/main/ScreenShot/DigWitchScreenShot%20(1).jpg" width="480px" height="270px"></img>
 <img src="https://github.com/fool8474/DigWitch/blob/main/ScreenShot/DigWitchScreenShot%20(2).jpg" width="480px" height="270px"></img></br>
 </br>
